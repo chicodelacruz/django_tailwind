@@ -1,4 +1,4 @@
-#!/Users/chicodelacruz/Desktop/django_netflix_clone-main/venv/bin/python3.10
+#!/Users/chicodelacruz/Workspace/django_netflix_clone-main/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
